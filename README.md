@@ -25,6 +25,7 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 
 ## Program:
 Developed by : D.Vinitha Naidu
+
 Register no:212222230175
 
 ### Convert image to grayscale and remove noise
